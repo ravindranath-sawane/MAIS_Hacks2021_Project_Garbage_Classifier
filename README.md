@@ -1,4 +1,4 @@
-# MAIS_Hacks_Project
+# MAIS_Hacks2021_Project_Garbage_Classifier
 
 The role of AI in Garbage Classification begins with Waste Management. Waste management companies take advantage of the IoT sensors to monitor the fullness of trash receptacles throughout the city.
 
