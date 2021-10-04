@@ -2,7 +2,7 @@
 
 The role of AI in Garbage Classification begins with Waste Management. Waste management companies take advantage of the IoT sensors to monitor the fullness of trash receptacles throughout the city.
 
-Our model is based on VG16 neural network architecture with helo of tensorflow and Keras.
+Our model is based on VGG16 neural network architecture with helo of tensorflow and Keras.
 
 ## Working:
 The function garbage_prediction takes a image input of garbage and finds the main constituents of the waste and gives output respectively.
