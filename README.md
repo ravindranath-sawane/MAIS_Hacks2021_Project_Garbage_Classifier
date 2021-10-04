@@ -8,3 +8,5 @@ Our model is based on VG16 neural network architecture with helo of tensorflow a
 The function garbage_prediction takes a image input of garbage and finds the main constituents of the waste and gives output respectively.
 
 ### Dataset: https://drive.google.com/drive/folders/1wqbPi76SA1h1pZM1C59viPgPg91fj4mq?usp=sharing
+
+## Project: https://devpost.com/software/garbage-classifier
